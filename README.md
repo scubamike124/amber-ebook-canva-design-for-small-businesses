@@ -7,11 +7,10 @@ This repository is a **listing only** — manuscripts and PDFs are **not** inclu
 
 | Edition | Price | Buy (Stripe on Amber HQ) |
 |---|---:|---|
-| Short | $9.99 | [Buy Short Edition](https://hq.amberoneai.com/store/ebooks/buy?bookId=ebook_canva-design-for-small-businesses_mt0xba9x&product=short) |
-| Complete | $29.99 | [Buy Complete Edition](https://hq.amberoneai.com/store/ebooks/buy?bookId=ebook_canva-design-for-small-businesses_mt0xba9x&product=long) |
+| Short | $9.99 | [Buy Short Edition](https://hq.amberoneai.com/store/ebooks?bookId=ebook_canva-design-for-small-businesses_mt0xba9x&product=short) |
+| Complete | $29.99 | [Buy Complete Edition](https://hq.amberoneai.com/store/ebooks?bookId=ebook_canva-design-for-small-businesses_mt0xba9x&product=long) |
 
-Full catalog: https://hq.amberoneai.com/store/ebooks  
-If a buy link is still deploying, open the store and select **Canva Design Mastery for Small Businesses**.
+Or open the full catalog and select **Canva Design Mastery for Small Businesses**: https://hq.amberoneai.com/store/ebooks
 
 ## About
 
